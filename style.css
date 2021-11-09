@@ -12,7 +12,7 @@ body{
     background-color: lightgrey;
 }
 
-header{
+#header-top{
     background-color: white;
 }
 
@@ -29,14 +29,12 @@ h1, img{
     height: 550px;
     width: 600px;
     margin: 10px auto;
-    border-radius: 10px;
-
+    border-radius: 15px;
 }
 
-header{
-    height: 80px;
+#header-bottom{
+    height: 60px;
     width: 100%;
-    border: solid 1px grey;
     padding-top: 20px;
     padding-left: 30px;
 }
@@ -44,6 +42,8 @@ header{
 #blue{
     background-color: rgb(40, 95, 245);
     color: white;
+    line-height: 100%;
+    vertical-align: middle;
 }
 
 #grey{
@@ -63,9 +63,13 @@ main{
     padding-left: 30px;
 }
 
+section{
+    margin-top: 15px;
+}
+
 .descrizione{
     display: inline-block;
-    margin-top: 20px;
+    margin-top: 15px;
     margin-bottom: 0px;
     font-size: 18px;
 }
