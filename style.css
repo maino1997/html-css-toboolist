@@ -59,3 +59,12 @@ header{
     border-radius: 5px;
 }
 
+main{
+    padding-left: 30px;
+}
+
+.descrizione{
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
