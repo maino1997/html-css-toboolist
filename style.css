@@ -102,3 +102,19 @@ section{
     background-color:  rgb(83, 128, 0);
 }
 
+.green-check{
+    display: inline-block;
+    width:20px;
+    height: 20px;
+    color:rgb(9, 214, 9);
+    border: 1px solid green;
+    border-radius: 50%;
+    line-height: 100%;
+    vertical-align: middle;
+    padding-left: 2px;
+}
+
+.red-check{
+    color: red;
+}
+
