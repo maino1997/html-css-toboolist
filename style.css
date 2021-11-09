@@ -67,12 +67,29 @@ main{
     display: inline-block;
     margin-top: 20px;
     margin-bottom: 0px;
+    font-size: 18px;
 }
 
 .section-button{
     border: none;
-    border-radius: 10px;
+    border-radius: 15px;
     padding: 5px;
     color: white;
+}
+
+#section-blue{
     background-color: rgb(11, 156, 252);
 }
+
+#section-purple{
+    background-color:  rgb(128, 0, 128);
+}
+
+#section-orange{
+    background-color:rgb(255, 81, 0);
+}
+
+#section-green{
+    background-color:  rgb(0, 128, 90);
+}
+
