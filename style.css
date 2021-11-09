@@ -4,11 +4,20 @@
     box-sizing: border-box;
 }
 
-img{
+/* img{
     vertical-align:middle;
+} */
+
+body{
+    background-color: lightgrey;
 }
 
-h1{
+header{
+    background-color: white;
+}
+
+h1, img{
+    margin-left: 10px;
     display:inline-block;
     line-height: 100%;
     vertical-align:middle;
