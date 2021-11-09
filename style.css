@@ -21,6 +21,7 @@ h1, img{
     display:inline-block;
     line-height: 100%;
     vertical-align:middle;
+    font-family:  Georgia, 'Times New Roman', Times, serif;
 }
 
 .container{
@@ -28,5 +29,33 @@ h1, img{
     height: 550px;
     width: 600px;
     margin: 10px auto;
-    border-radius: 15px;
+    border-radius: 10px;
+
 }
+
+header{
+    height: 80px;
+    width: 100%;
+    border: solid 1px grey;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+#blue{
+    background-color: rgb(40, 95, 245);
+    color: white;
+}
+
+#grey{
+    background-color: white;
+    color: grey;
+}
+
+.selection{
+    height: 30px;
+    width: 80px;
+    display: inline-block;
+    border: solid 1px grey;
+    border-radius: 5px;
+}
+
