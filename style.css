@@ -47,6 +47,7 @@ h1, img{
 #blue{
     background-color: rgb(40, 95, 245);
     color: white;
+    border:none;
     
 }
 
