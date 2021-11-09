@@ -12,19 +12,20 @@ body{
 
 #header-top{
     background-color: white;
+    line-height: 100%;
 }
 
 h1, img{
     margin-left: 10px;
     display:inline-block;
     line-height: 100%;
-    vertical-align:middle;
+    /* vertical-align:middle; */
     font-family:  Georgia, 'Times New Roman', Times, serif;
 }
 
 .container{
     background-color: white;
-    height: 560px;
+    height: 540px;
     width: 600px;
     margin: 10px auto;
     border-radius: 15px;
@@ -61,7 +62,7 @@ h1, img{
 
 main{
     padding-left: 30px;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
 section{
