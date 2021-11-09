@@ -116,5 +116,13 @@ section{
 
 .red-check{
     color: red;
+    display: inline-block;
+    width:20px;
+    height: 20px;
+    border: 1px solid red;
+    border-radius: 50%;
+    line-height: 100%;
+    vertical-align: middle;
+    padding-left: 2px;
 }
 
