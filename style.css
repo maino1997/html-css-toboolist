@@ -22,3 +22,11 @@ h1, img{
     line-height: 100%;
     vertical-align:middle;
 }
+
+.container{
+    background-color: white;
+    height: 550px;
+    width: 600px;
+    margin: 10px auto;
+    border-radius: 15px;
+}
