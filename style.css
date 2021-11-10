@@ -27,7 +27,7 @@ h1{
 
 .container{
     background-color: white;
-    height: 630px;
+    height: 550px;
     width: 600px;
     margin: 10px auto;
     border-radius: 15px;
@@ -66,17 +66,17 @@ h1{
 
 main{
     padding-left: 30px;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 
 ul{
     list-style-type: none;
-    margin-bottom: 35px;
+    margin-bottom: 15px;
 }
 
 li{
-    margin-top: 5px;
+    margin-top: 2px;
 }
 
 .descrizione{
