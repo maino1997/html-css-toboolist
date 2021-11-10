@@ -68,6 +68,12 @@ main{
     margin-top: 10px;
 }
 
+
+ul{
+    list-style-type: none;
+    margin-top: 4px;
+}
+
 li{
     margin-top: 3px;
 }
@@ -130,9 +136,4 @@ li{
     line-height: 100%;
     vertical-align: middle;
     padding-left: 2px;
-}
-
-ul{
-    list-style-type: none;
-    margin-top: 3px;
 }
