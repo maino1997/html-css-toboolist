@@ -96,23 +96,23 @@ li{
     vertical-align: middle;
 }
 
-#section-blue{
+.main-btn-blue{
     background-color: rgb(11, 156, 252);
 }
 
-#section-purple{
+.main-btn-purple{
     background-color:  rgb(128, 0, 128);
 }
 
-#section-orange{
+.main-btn-orange{
     background-color:rgb(255, 81, 0);
 }
 
-#section-green{
+.main-btn-green{
     background-color:  rgb(0, 128, 90);
 }
 
-#section-darkgreen{
+.main-btn-darkgreen{
     background-color:  rgb(83, 128, 0);
 }
 
