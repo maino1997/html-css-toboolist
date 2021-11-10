@@ -13,10 +13,14 @@ body{
     background-color: white;
 }
 
-h1, img{
+h1{
+    display:inline;
     margin-left: 10px;
-    display:inline-block;
-    line-height: 100%;
+    vertical-align:middle;
+}
+
+img{
+    margin-left: 10px;    
     vertical-align:middle;
     font-family:  Georgia, 'Times New Roman', Times, serif;
 }
