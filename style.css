@@ -52,13 +52,15 @@ img{
     background-color: rgb(40, 95, 245);
     color: white;
     border:none;
-    
+    display: inline-block;
+    line-height: 100%;
+    vertical-align: middle;
 }
 
 #grey{
     background-color: white;
     color: grey;
-    
+    vertical-align: middle;
 }
 
 main{
@@ -130,3 +132,6 @@ section{
     padding-left: 2px;
 }
 
+ul{
+    list-style-type: none;
+}
