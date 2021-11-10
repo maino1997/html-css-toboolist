@@ -111,27 +111,29 @@ li{
     background-color:  rgb(0, 128, 90);
 }
 
-#section-green2{
+#section-darkgreen{
     background-color:  rgb(83, 128, 0);
 }
 
-.check{
+.check-before::before{
     display: inline-block;
-    width:20px;
-    height: 20px;
+    width:15px;
+    height: 15px;
     border-radius: 50%;
     line-height: 100%;
     vertical-align: middle;
     padding-left: 2px;
+    border: 1px solid;
 }
 
-.green-check{
+ .green-check::before{
+    content: '\2713';
     color:rgb(9, 214, 9);
-    border: 1px solid green;
-    
+    border-color:currentColor;    
 }
 
-.red-check{
+.red-check::before{
+    content:'\2717';
      color: red;
-    border: 1px solid red;
-}
+    border-color:currentColor;
+} 
