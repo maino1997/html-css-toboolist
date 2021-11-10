@@ -93,6 +93,7 @@ li{
     padding-left: 10px;
     padding-right: 10px;
     color: white;
+    vertical-align: middle;
 }
 
 #section-blue{
@@ -137,3 +138,7 @@ li{
      color: red;
     border-color:currentColor;
 } 
+
+li h2{
+    vertical-align: middle;
+}
