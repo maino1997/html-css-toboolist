@@ -19,7 +19,7 @@ h1{
     vertical-align:middle;
 }
 
-img{
+#logo{
     margin-left: 10px;    
     vertical-align:middle;
     font-family:  Georgia, 'Times New Roman', Times, serif;
@@ -33,7 +33,7 @@ img{
     border-radius: 15px;
 }
 
-#header-bottom{
+.container header{
     height: 60px;
     width: 100%;
     padding-top: 15px;
