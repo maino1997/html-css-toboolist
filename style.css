@@ -44,14 +44,14 @@ h1{
     height: 30px;
     width: 80px;
     display: inline-block;
-    border: solid 1px grey;
+    border: solid 1px transparent;
     border-radius: 5px;
 }
 
 #blue{
     background-color: rgb(40, 95, 245);
     color: white;
-    border:none;
+    border-color:rgb(40, 95, 245);
     display: inline-block;
     line-height: 100%;
     vertical-align: middle;
@@ -60,6 +60,7 @@ h1{
 #grey{
     background-color: white;
     color: grey;
+    border-color: currentColor;
     vertical-align: middle;
 }
 
